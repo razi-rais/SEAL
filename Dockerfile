@@ -1,5 +1,5 @@
 # Dockerfile | SealExamples
-# Source (with some modifications): https://github.com/Lab41/PySEAL/blob/master/Dockerfile)
+# Source (with some modifications): https://github.com/Lab41/PySEAL/blob/master/Dockerfile
 
 FROM ubuntu:16.04 
 # Install binary dependencies
