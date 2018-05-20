@@ -1,3 +1,6 @@
+
+This is a fork of Microsoft's SEAL library. You can find details about the SEAL project at: https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/
+
 # Introduction
 Simple Encrypted Arithmetic Library (SEAL) is an easy-to-use homomorphic encryption 
 library, developed by researchers in the Cryptography Research group at Microsoft Research. 
